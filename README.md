@@ -1,11 +1,11 @@
 # INDEPENDENT-PROJECT
-KARAMOJA FOOD INSECURITY:
+## KARAMOJA FOOD INSECURITY:
 Creating an interactive data visualization monitoring tool to support the decision-making of one of those NGOs active in Karamoja.
 
 Assessment
-Tableau Workbook:
+## Tableau Workbook:
 
-##Overview
+## Project Description
 
 Karamoja is the most food-insecure region of Uganda. One of the main reasons is the low productivity level of the crops due to intense droughts as well as pest and disease outbreaks.
 
@@ -13,10 +13,10 @@ In Karamoja, several NGOs provide technical support as well as farm inputs to th
 
 Dalberg Data Insights (DDI) has been requested to develop a new food security monitoring tool to support the decision-making of one of those NGOs active in Karamoja.
 
-##Quiding Principle
+## Research Question
 As a Data Scientist, the agri-tech team is asking you to develop an interactive visualization tool of the results for this first crop season. This visualization tool that you will develop will be used as a first mockup of the Food Security Monitoring tool that DDI will develop for the NGO.
 
-##Required
+## Project Requirement
 Based on your experience, the team expects you to come up with a first draft within the coming 3 working days. They give you carte blanche in terms of structure and functionalities but they know that the client wants:
 a) Create at least a map in the dashboard.
 b) Have a visualization of the results by district or sub-county.
@@ -26,7 +26,7 @@ e) Use group, bin, hierarchy, sort, set, and filter options effectively. Perform
 f) Make changes to options in formatting visualizations.
 g) Combine multiple visualizations into a dashboard.
 
-##Dataset in use
+## Project Dataset
 Dataset Source https://archive.org/download/data_20190829/DATA.zip
 
 Shapefiles
