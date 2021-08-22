@@ -3,6 +3,7 @@
 Creating an interactive data visualization monitoring tool to support the decision-making of one of those NGOs active in Karamoja.
 
 Assessment
+## SQL 
 ## Tableau Workbook: https://prod-uk-a.online.tableau.com/#/site/jkuat/workbooks/36120?:origin=card_share_link
 
 ## Project Description
